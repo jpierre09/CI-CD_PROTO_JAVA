@@ -8,6 +8,6 @@ public class Calculadora {
     }
     
     public Double cubo(Double numero) {
-        return numero * numero * numero + 1;
+        return numero * numero * numero ;
     }
 }
